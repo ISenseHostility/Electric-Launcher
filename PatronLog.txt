@@ -1,0 +1,29 @@
+---------------------------------------
+Patron - Debug File
+Version: 1.700.0 (WX)
+Time:11.9.2023. 23:11
+---------------------------------------
+WhaleX v3.000.0
+---------------------------------------
+Windows
+Hardware:
+	Memory:
+		TotalPhys:16291
+		AvailPhys:2558
+		AvailVirt:134213480
+		AvailPage:7563
+	System:
+		NumberOfProcessors:12
+		Processor:9 Revision:42242
+		Processor:9
+		ProcessorType:42242
+		ProcessorLevel:6
+---------------------------------------
+Release version
+VersionConfirm: STEAM - 1.700.0
+GameSaveVersion: 147
+LoadConfigFile>>
+GameConfiguratin not exist, create default!
+Error!! OpenFile (Data\DefaultConfig\GameConfigurationDefault.cfg) (r) (Error: No such file or directory)
+LoadOptions>>
+Error!! OpenFile (Data\DefaultConfig\OptionsConfig.txt) (r) (Error: No such file or directory)

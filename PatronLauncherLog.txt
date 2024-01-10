@@ -1,0 +1,5 @@
+LoadConfigFile>>
+GameConfiguratin not exist, create default!
+Error!! OpenFile (Data\DefaultConfig\GameConfigurationDefault.cfg) (r) (Error: No such file or directory)
+LoadOptions>>
+Error!! OpenFile (Data\DefaultConfig\OptionsConfig.txt) (r) (Error: No such file or directory)
